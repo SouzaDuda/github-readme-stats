@@ -1,6 +1,6 @@
 export const themes = {
   default: {
-    title_color: "2f80ed",
+    title_color: "f59745",
     icon_color: "4c71f2",
     text_color: "434d58",
     bg_color: "fffefe",
@@ -461,6 +461,12 @@ export const themes = {
     text_color: "ffffff",
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
+  },
+  gold: {
+    title-color: "f59745",
+    icon_color: "ffae4b",
+    text_color: "ffffff",
+    bg_color: "170f04",
   },
 };
 
